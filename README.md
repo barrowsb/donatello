@@ -33,8 +33,9 @@ or be programmed to move to a specific spot by localising using an overhead IR b
 </p> 
 
 Donatello took part in the MEAM510 Fall 2019 competition:
+
 <p align="center">
-<a href="https://youtu.be/reoxj4HhTFM?t=1323">
+<a href="https://youtu.be/reoxj4HhTFM?t=1323" target="_blank">
          <img alt="Obstacle avoidance" src="/img/img3.png" width="400" >
 </a>
 </p>
