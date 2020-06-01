@@ -40,4 +40,7 @@ Donatello took part in the MEAM510 Fall 2019 competition:
 </a>
 </p>
 
-
+## Team
+Brian Barrows
+Vishnu Prem
+David DePauw
